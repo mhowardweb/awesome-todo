@@ -1,3 +1,3 @@
-# Quasar App
+# Todo App
 
 > WIP
